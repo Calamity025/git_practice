@@ -1,4 +1,5 @@
 # git_practice
 
-First commit from user 1.
-Please make sure to use Ruby interpreter to run this app! 
+Make sure to use correct version of RUBY compiler or interpreter to run this program!
+
+GNU Open License 2019
